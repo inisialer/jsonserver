@@ -1,0 +1,21 @@
+{
+  "Wisata" :[
+
+    {
+      "id":1,
+      "Nama": "RSUD Majalengka ",
+      "Lat" : -6.833750768927492, 
+      "Lng" : 108.23349724087834,
+      "Waktu Buka": 6.00 ,
+      "Waktu Tutup": 20.00
+    },
+    {
+      "id":2,
+      "Nama": "Pizza Hits Majalengka ",
+      "Lat" : -6.837117742309791,
+      "Lng" : 108.23474243750054,
+      "Waktu Buka": 8.00 ,
+      "Waktu Tutup": 15.00
+    }
+]
+}
